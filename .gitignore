@@ -1,5 +1,5 @@
 
 config.js
-text2.txt
+*.txt
 !text.txt
 /temp
